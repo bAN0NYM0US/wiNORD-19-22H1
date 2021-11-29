@@ -5,24 +5,21 @@
 ## [v0.8] - Windows 10 LTSC IoT 19044.1387
 	### Added
 		- Brave Browser
+		- VLC Media Player
 		- Microsoft Store
 		- Xbox
 		- 7th Anniversary Wallpaper (NORD)
-		- Blured Lock Screen
-		
-	#### Changed
-		- UI Accent Colour to Slate
+		- Blured Lock Screen Wallpaper
 
 	### Removed
 		- Microsoft Edge
-		- Brave & Edge Desktop Icons
+		- Default Desktop Icons
 
 ## [v0.7] - Windows 10 LTSC IoT 19044.1387
 	### Added
 		- Ability to Activate with Home/Pro Embedded Key
 
 	### Changed
-		- Default UI Accent Colour to Grey
 		- Default UI to Dark Mode
 
 	### Removed
