@@ -1,7 +1,6 @@
 # Windows 10 21H2 LTSC IoT Lite 19044.1387
 
 # Changelog
-[Project: Windows 10 LTSC IoT Lite]
 
 ## [v0.8e] - Windows 10 LTSC IoT 19044.1387
 	### Added
@@ -36,7 +35,7 @@
 ## [v0.5] - Windows 10 LTSC IoT 19044.1288
 	### Removed
 		- UAC Warnings
-    - Remote Desktop
+		- Remote Desktop
 		- Enterprise Settings
 
 ## [v0.4] - Windows 10 LTSC IoT 19044.1288
@@ -64,5 +63,4 @@
 		- Language Packs
 		- Internet Explorer
 		- Windows Media Player
-		- Microsoft Edge (failed)
 		- Windows Defender
