@@ -2,14 +2,20 @@
 
 # Changelog
 
-## [v0.8e] - Windows 10 LTSC IoT 19044.1387
+## [v0.8] - Windows 10 LTSC IoT 19044.1387
 	### Added
-		- Brave Browser (failed)
-		- Microsoft Store (failed)
-		- Xbox (failed)
+		- Brave Browser
+		- Microsoft Store
+		- Xbox
+		- 7th Anniversary Wallpaper (NORD)
+		- Blured Lock Screen
+		
+	#### Changed
+		- UI Accent Colour to Slate
 
 	### Removed
-		- Microsoft Edge (failed)
+		- Microsoft Edge
+		- Brave & Edge Desktop Icons
 
 ## [v0.7] - Windows 10 LTSC IoT 19044.1387
 	### Added
