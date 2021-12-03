@@ -1,4 +1,4 @@
-# Windows 10 21H2 LTSC IoT Lite 19044.1387
+# Nordic Windows 10 21H2 LTSC IoT 19044.1387
 
 # Changelog
 
