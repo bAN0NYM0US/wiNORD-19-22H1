@@ -1,5 +1,13 @@
 # Nordic Windows 10 21H2 LTSC IoT 19044.1620
 
+# Known Issues
+Microsoft Photo's app is missing from factory and I haven't been able to get the .appx Bundle to install correctly yet. This can be manually fixed by opening the Microsoft Store, and just downloading it from there, then setting it as the default application for viewing photos.
+
+# Manual Procedure
+After installation is complete, you will need to navigate to C:\NORD and manually install the Source Code Pro font, and then run the .reg file to set it as the system font (reboot is required after). Next you will have to open OldNewExplorer and install. Once installed, tick the box for "Use command bar instead of ribbon" and uncheck everything else. Now, Right-click ThemeTool.exe as administrator, Click "Yes". Click the Install Button and reboot. Repeat steps for opening ThemeTool.exe and now select the Nord Theme and click Patch & Apply.
+Optional step is to install AutoDarkMode and configure to automatically switch based on sunrise/sunset or at a specific time.
+Running the font .reg file, and Applying the Nord theme will need to be done again after every major Windows Update.
+
 # Changelog
 
 ## [v0.9] - Windows 10 LTSC IoT 19044.1620
