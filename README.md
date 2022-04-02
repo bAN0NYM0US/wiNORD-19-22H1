@@ -1,6 +1,29 @@
-# Nordic Windows 10 21H2 LTSC IoT 19044.1387
+# Nordic Windows 10 21H2 LTSC IoT 19044.1620
 
 # Changelog
+
+## [v0.9] - Windows 10 LTSC IoT 19044.1620
+	### Added
+		- C:/NORD Directory
+			- AutoDarkMode
+			- OldNewExplorer
+			- Font
+				- Source Code Pro Fonts
+				- Registry file to enable font as system default
+			- Cursor
+				- Nord/Bouquet
+			- SecureUX Patcher
+		- Embedded Nord Light/Dark Theme to C:\Windows\Resources\Themes
+		- Added more nordic wallpapers
+
+	### Changed
+		- Setup boots directly to Drive Selection
+		- OOBE boots directly to Local Account setup
+
+	### Fixed
+		- UAC always being enabled (can now be disabled)
+		- Brave Browser installer is now completely silent
+		- User input is no longer needed to exit CMD after Microsoft Store install
 
 ## [v0.8] - Windows 10 LTSC IoT 19044.1387
 	### Added
@@ -13,7 +36,7 @@
 
 	### Removed
 		- Microsoft Edge
-		- Default Desktop Icons
+		- Delete Desktop Icons (borked)
 
 ## [v0.7] - Windows 10 LTSC IoT 19044.1387
 	### Added
