@@ -1,4 +1,4 @@
-# Nordic Windows 10 LTSC IoT 19044.1620
+# Nordic Minimalist Windows 10 LTSC IoT 19044.1620
 
 ![alt text](https://i.imgur.com/fGxmBKu.png?raw=true)
 
@@ -9,119 +9,88 @@ Microsoft Photo's app is missing from factory and I haven't been able to get the
 ISO will boot directly to the Drive Selection screen. Pick a drive/partition and install. Once install is complete, OOBE will load. If you don't have direct internet access, you will be asked to connect to wifi first. If you have direct access, OOBE will load directly to Local Account. Enter a username and password. Everything will finish up and you will be at the Desktop. (slower computer may see the Post-Setup screen still going, but this is normally done in the backgorund before the desktop loads on faster machines). Don't be alarmed, this is just removing Edge, installing Brave and VLC.
 
 # Manual Procedure
-Font:
-
-Navigate to C:\NORD and manually install the Source Code Pro font (select all, right-click, install). Once complete, run the .reg file to set it as the system font (reboot is required).
-
-Theme:
-
-Navigate to C:\NORD and Right-click ThemeTool.exe, open as administrator, Click "Yes". Click the "Install" Button and reboot. Repeat steps for opening ThemeTool.exe and now select the Nord Theme and click "Patch & Apply".
-
-Optional:
-
-Install AutoDarkMode and configure to automatically switch based on sunrise/sunset or at a specific time. This will work with the Nord theme.
+Post-install instructions can be found in C:\NORD\Install Guide.txt
 
 Additional Info:
 
-You will need to run the font .reg file, and Applying the Nord theme with ThemeTool.exe after every major Windows Update.
+You will need to run the font .reg file, and reapply the Nord theme with ThemeTool.exe after every major Windows Update.
+
+# Downloads
+## (Compiling not finished)
+This is NOT activated. You will need to activate this with a Volume License or, for EDUCATIONAL PURPOSE use [EzHWID](https://github.com/ExeCsrss/EzHWID)
+
+[Nord Colour 7th Anniversary Wallpapers](https://drive.google.com/drive/folders/16Dnms-cryPyQ2nF4wxSnjTW3jtO9ilMg?usp=sharing)
 
 # Changelog
 
-## [v0.9] - Windows 10 LTSC IoT 19044.1620
-	### Added
-		- C:/NORD Directory
-			- AutoDarkMode
-			- OldNewExplorer
-			- Font
-				- Source Code Pro
-				- Registry file to enable font as system default
-			- Cursor
-				- Nord/Bouquet
-			- SecureUxTheme
-		- Embedded Nord Light/Dark Theme to C:\Windows\Resources\Themes
-		- Added more nordic wallpapers
-
-	### Changed
-		- Setup boots directly to Drive Selection
-		- OOBE boots directly to Local Account setup
-
-	### Fixed
-		- UAC always being enabled (can now be disabled)
-		- Brave Browser installer is now completely silent
-		- User input is no longer needed to exit CMD after Microsoft Store install
-
-## [v0.8] - Windows 10 LTSC IoT 19044.1387
+## Windows 10 LTSC IoT 21H2 19044.1620
 	### Added
 		- Brave Browser
 		- VLC Media Player
 		- Microsoft Store
 		- Xbox
-		- 7th Anniversary Wallpaper (NORD)
-		- Blured Lock Screen Wallpaper
-
-	### Removed
-		- Microsoft Edge
-		- Delete Desktop Icons (borked)
-
-## [v0.7] - Windows 10 LTSC IoT 19044.1387
-
-	### Changed
-		- Default UI to Dark Mode
-
-	### Removed
-		- Recommended Apps & Settings
-
-## [v0.6] - Windows 10 LTSC IoT 19044.1387
-	### Added
-		- KB5007253 (19044.1387)
-    
-	### Changed
-		- Taskbar set to Small
-		- This PC as Default for File Explorer
-		
-	### Removed
-		- Quick Access from File Explorer
-
-## [v0.5] - Windows 10 LTSC IoT 19044.1288
-	### Removed
-		- UAC Warnings
-		- Remote Desktop
-		- Enterprise Settings
-
-## [v0.4] - Windows 10 LTSC IoT 19044.1288
-	### Added
-		- Windows 10 LTSC 21H2 IoT Generic Key
-		- Compact OS
+		- C:/NORD Directory
+			- Font
+				- Source Code Pro
+				- Registry file to enable font as system default
+			- Cursor
+				- Nord/Bouquet
+			- AutoDarkMode
+			- OldNewExplorer
+			- SecureUxTheme
+		- Embedded Nord Theme to C:\Windows\Resources\Themes
+		- Added more nordic wallpapers
+   		- Windows 7th Anniversary wallpaper with Nord colour pallet to C:\Windows\Web\Wallpaper\Windows
+ 		- Blured Windows 7th Anniversary wallpaper with Nord colour pallet to C:\Windows\Web\Screen
+		- Embedded Nord Light/Dark Theme to C:\Windows\Resources\Themes
 
 	### Changed
+		- Setup boots directly to Drive Selection (details under ### Removed/Setup)
+		- OOBE boots directly to Local Account setup (details under ### Removed/OOBE)
+		- Default UI to Full Dark Mode
 		- EST Time Zone as Default
 		- US English as Default
+		- Taskbar set to Small
+		- This PC as Default for File Explorer
 
-## [v0.3] - Windows 10 LTSC 19044.1288
+	### Fixed
+		- UAC can now be disabled
+		- Brave Browser install is now completely silent
+		- User input is no longer needed to exit CMD after Microsoft Store install
+    
 	### Removed
-		- OOBE Microsoft Account
-		- OOBE Privacy Settings
-
-## [v0.2] - Windows 10 LTSC 19044.1288
-	### Removed
+		- Setup:
+			- Language Select
+			- EULA
+			- Product Key Input/Version Select
+		- OOBE:
+			- Language/Region
+			- Keyboard Select
+			- Online Account
+			- Telemetry Switches
+		- Microsoft Edge
 		- Microsoft Telemetry
-		- Install Selections
-		- Install EULA
-
-## [v0.1] - Windows 10 LTSC 19044.1288
-	### Removed
+		- Recommended Apps & Settings
+		- Quick Access from File Explorer
 		- Language Packs
-		- Internet Explorer
 		- Windows Media Player
-		
+		- Internet Explorer
+		- Taskbar:
+			- Meet Now
+			- Notification Centre
+			- Search
+			- People
+
 # Contributions
 	- Nord Theme by niivu
 		https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272
 	- Bouquet Cursor by niivu
 		https://www.deviantart.com/niivu/art/Bouquet-Cursors-734306936
-	- Nord Cursor by Abod1969
+	- Nord Cursor by Abod1960
 		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
-	- Wallpaper by Anonymous
+	- Nord Oreo by Abod1960
+		https://www.deviantart.com/abod1960/art/Oreo-Nord-875312546
+	- Wallpapers in Nord Theme by Anonymous
 		http://4chan.org/wg
 	- Source Code Pro Font by Paul D. Hunt
 		https://github.com/adobe-fonts/source-code-pro
