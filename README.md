@@ -1,5 +1,7 @@
 # Nordic Windows 10 21H2 LTSC IoT 19044.1620
 
+![alt text](https://i.imgur.com/fGxmBKu.png?raw=true)
+
 # Known Issues
 Microsoft Photo's app is missing from factory and I haven't been able to get the .appx Bundle to install correctly yet. This can be manually fixed by opening the Microsoft Store, and just downloading it from there, then setting it as the default application for viewing photos.
 
