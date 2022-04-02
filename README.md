@@ -123,9 +123,9 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
 	- Wallpaper by Anonymous
 		http://4chan.org/wg
-	- Source Code Pro Front by Paul D. Hunt
+	- Source Code Pro Font by Paul D. Hunt
 		https://github.com/adobe-fonts/source-code-pro
-	- Wiondows 10 by Microsoft
+	- Windows 10 by Microsoft
 		(link to 21H2 LTSC IoT not available)
 	- Start 11 by Stardock
 		https://www.stardock.com/products/start11/
