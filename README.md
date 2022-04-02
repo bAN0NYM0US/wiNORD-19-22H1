@@ -33,11 +33,11 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 			- AutoDarkMode
 			- OldNewExplorer
 			- Font
-				- Source Code Pro Fonts
+				- Source Code Pro
 				- Registry file to enable font as system default
 			- Cursor
 				- Nord/Bouquet
-			- SecureUX Patcher
+			- SecureUxTheme
 		- Embedded Nord Light/Dark Theme to C:\Windows\Resources\Themes
 		- Added more nordic wallpapers
 
@@ -113,3 +113,23 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 		- Language Packs
 		- Internet Explorer
 		- Windows Media Player
+		
+# Contributions
+	- Nord Theme by niivu
+		https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272
+	- Bouquet Cursor by niivu
+		https://www.deviantart.com/niivu/art/Bouquet-Cursors-734306936
+	- Nord Cursor by Abod1969
+		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
+	- Wallpaper by Anonymous
+		http://4chan.org/wg
+	- Source Code Pro Front by Paul D. Hunt
+		https://github.com/adobe-fonts/source-code-pro
+	- Wiondows 10 by Microsoft
+		(link to 21H2 LTSC IoT not available)
+	- Start 11 by Stardock
+		https://www.stardock.com/products/start11/
+	- OldNewExplorer by Tihiy
+		https://www.majorgeeks.com/files/details/oldnewexplorer.html
+	- SecureUxTheme by namazso
+		https://github.com/namazso/SecureUxTheme
