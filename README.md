@@ -98,6 +98,8 @@ This is NOT activated. You will need to activate this with a Volume License or, 
 		(link to 21H2 LTSC IoT not available)
 	- Start 11 by Stardock
 		https://www.stardock.com/products/start11/
+	- Auto Dark Mode by Armin2208
+		https://github.com/AutoDarkMode/Windows-Auto-Night-Mode
 	- OldNewExplorer by Tihiy
 		https://www.majorgeeks.com/files/details/oldnewexplorer.html
 	- SecureUxTheme by namazso
