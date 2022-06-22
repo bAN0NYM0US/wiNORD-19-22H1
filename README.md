@@ -16,7 +16,7 @@ Additional Info:
 You will need to run the font .reg file, and reapply the Nord theme with ThemeTool.exe after every major Windows Update.
 
 # Downloads
-## [wiNORD 19044.1620](http://usheethe.com/kxWy)
+## [wiNORD 19044.1766](http://usheethe.com/kxWy)
 This is NOT activated. You will need to activate this with a Volume License or, for EDUCATIONAL PURPOSE use [EzHWID](https://github.com/ExeCsrss/EzHWID)
 
 [Nord Colour 7th Anniversary Wallpapers](http://usheethe.com/kswn)
