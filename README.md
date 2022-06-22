@@ -1,4 +1,4 @@
-# Nordic Minimalist Windows 10 LTSC IoT 19044.1620
+# Nordic Minimalist Windows 10 LTSC IoT 19044.1766
 
 ![alt text](https://i.imgur.com/fGxmBKu.png?raw=true)
 
@@ -16,14 +16,14 @@ Additional Info:
 You will need to run the font .reg file, and reapply the Nord theme with ThemeTool.exe after every major Windows Update.
 
 # Downloads
-## [wiNORD 19044.1620](https://drive.google.com/file/d/1TSzjoCi8-MK8Xon2s31X1iytOwgP-TPc)
+## [wiNORD 19044.1620](http://usheethe.com/kxWy)
 This is NOT activated. You will need to activate this with a Volume License or, for EDUCATIONAL PURPOSE use [EzHWID](https://github.com/ExeCsrss/EzHWID)
 
-[Nord Colour 7th Anniversary Wallpapers](https://drive.google.com/drive/folders/16Dnms-cryPyQ2nF4wxSnjTW3jtO9ilMg?usp=sharing)
+[Nord Colour 7th Anniversary Wallpapers](http://usheethe.com/kswn)
 
 # Changelog
 
-## Windows 10 LTSC IoT 21H2 19044.1620
+## Windows 10 LTSC IoT 21H2 19044.1766
 	### Added
 		- Brave Browser
 		- VLC Media Player
@@ -34,7 +34,7 @@ This is NOT activated. You will need to activate this with a Volume License or, 
 				- Source Code Pro
 				- Registry file to enable font as system default
 			- Cursor
-				- Nord/Bouquet
+				- Bouquet
 			- AutoDarkMode
 			- OldNewExplorer
 			- SecureUxTheme
@@ -54,6 +54,8 @@ This is NOT activated. You will need to activate this with a Volume License or, 
 		- This PC as Default for File Explorer
 
 	### Fixed
+		- Issue with being unable to use Insider builds is resolved
+		- Bouquet Cursor issue is fixed with Dark Mode
 		- UAC can now be disabled
 		- Brave Browser install is now completely silent
 		- User input is no longer needed to exit CMD after Microsoft Store install
@@ -86,10 +88,6 @@ This is NOT activated. You will need to activate this with a Volume License or, 
 		https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272
 	- Bouquet Cursor by niivu
 		https://www.deviantart.com/niivu/art/Bouquet-Cursors-734306936
-	- Nord Cursor by Abod1960
-		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
-	- Nord Oreo by Abod1960
-		https://www.deviantart.com/abod1960/art/Oreo-Nord-875312546
 	- Wallpapers in Nord Theme by Anonymous
 		http://4chan.org/wg
 	- Source Code Pro Font by Paul D. Hunt
